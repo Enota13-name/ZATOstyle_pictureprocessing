@@ -1,0 +1,4 @@
+interface:
+  display_name: "ZATO 背景照片风格"
+  short_description: "将照片转换为 ZATO 背景的色阶、压黑和印刷颗粒风格，支持逐图匹配"
+  default_prompt: "使用 $zato-background-style 将这张照片处理成 ZATO 游戏背景风格，先询问这次是否模糊 logo，保留主体与构图，只交付冷青和暖色两张图片。"
